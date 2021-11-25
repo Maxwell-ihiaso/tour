@@ -2,6 +2,8 @@
 
 ---
 
+[View Demo](https://tour-proj.netlify.app/)
+
 ## Technology
 
 - React
